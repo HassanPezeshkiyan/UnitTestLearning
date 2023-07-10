@@ -1,0 +1,12 @@
+E:\Personal\CSHARP\UnitTestLearning\DB\bin\Debug\net7.0\DB.deps.json
+E:\Personal\CSHARP\UnitTestLearning\DB\bin\Debug\net7.0\DB.dll
+E:\Personal\CSHARP\UnitTestLearning\DB\bin\Debug\net7.0\DB.pdb
+E:\Personal\CSHARP\UnitTestLearning\DB\obj\Debug\net7.0\DB.csproj.AssemblyReference.cache
+E:\Personal\CSHARP\UnitTestLearning\DB\obj\Debug\net7.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal\CSHARP\UnitTestLearning\DB\obj\Debug\net7.0\DB.AssemblyInfoInputs.cache
+E:\Personal\CSHARP\UnitTestLearning\DB\obj\Debug\net7.0\DB.AssemblyInfo.cs
+E:\Personal\CSHARP\UnitTestLearning\DB\obj\Debug\net7.0\DB.csproj.CoreCompileInputs.cache
+E:\Personal\CSHARP\UnitTestLearning\DB\obj\Debug\net7.0\DB.dll
+E:\Personal\CSHARP\UnitTestLearning\DB\obj\Debug\net7.0\refint\DB.dll
+E:\Personal\CSHARP\UnitTestLearning\DB\obj\Debug\net7.0\DB.pdb
+E:\Personal\CSHARP\UnitTestLearning\DB\obj\Debug\net7.0\ref\DB.dll
