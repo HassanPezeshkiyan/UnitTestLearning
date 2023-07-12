@@ -116,6 +116,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "fluentassertions": {
+              "target": "Package",
+              "version": "[6.11.0, )"
             }
           },
           "imports": [
